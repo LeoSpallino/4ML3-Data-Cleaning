@@ -8,4 +8,6 @@ Data has been taken from [the Daily Kos](https://docs.google.com/spreadsheets/d/
 
 A link to the article where the data was taken from can be found [here](https://www.dailykos.com/stories/2012/11/19/1163009/-Daily-Kos-Elections-presidential-results-by-congressional-district-for-the-2012-2008-elections)
 
+By running the pop_data_cleaning.ipynb notebook, the file 'dataset.csv' will be generated which is the resulting dataset to be used for this study.
+
 Census data was retrieved from the [US Census Bureau](https://data.census.gov/cedsci/)
